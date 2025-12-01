@@ -183,17 +183,17 @@ Lihat file `requirements.txt` untuk daftar lengkap dependencies:
 
 ### DenseNet121
 
-[DenseNet121](learning_curve-densenet121.png)
+![DenseNet121](learning_curve-densenet121.png)
 
 ### Swin-Tiny
-[Swin-Tiny](learning_curve-swin.png)
+![Swin-Tiny](learning_curve-swin.png)
 
 ## Metric Performance
 
 ### DenseNet121
 
-[DenseNet121](metric-densenet121.png)
+![DenseNet121](metric-densenet121.png)
 
 ### Swin Tiny
 
-[Swin-Tiny](metric-swin.png)
+![Swin-Tiny](metric-swin.png)
