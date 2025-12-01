@@ -1,0 +1,9 @@
+torch
+torchvision
+timm
+mediapipe
+pillow
+pillow-heif
+opencv-python-headless
+streamlit
+numpy
