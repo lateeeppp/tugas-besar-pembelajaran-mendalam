@@ -7,6 +7,11 @@
 2. **Shintya Ayu Wardani** - 122140138
 3. **Aldi Sanjaya** - 122140150
 
+## Model Terbaik:
+**DenseNet121** (`densenet121_facecls.pth`)
+
+## Tautan
+
 ### Aplikasi: [Hugging Face - Streamlit](https://huggingface.co/spaces/AldiSanjaya121/PengenalWajahMahasiswa)
 ### Video Presentasi: [Youtube](https://youtu.be/-RVCa59FNnM?si=QdQp6YWmByHC7S6B)
 ### Poster: [Gdrive](https://drive.google.com/file/d/1_02TFxsLvbL0b0U2wM1MP8ZhRawZgBBO/view?usp=drive_link)
