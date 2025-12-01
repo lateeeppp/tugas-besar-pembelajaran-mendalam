@@ -2,7 +2,7 @@
 
 ## Kelompok: NVTeam (Neural Vision Team)
 
-### Anggota Kelompok
+### Anggota Kelompok - Pembelajaran Mendalam RA
 1. **Ikhsannudin Lathief** - 122140137
 2. **Shintya Ayu Wardani** - 122140138
 3. **Aldi Sanjaya** - 122140150
