@@ -15,6 +15,7 @@
 ### Aplikasi: [Hugging Face - Streamlit](https://huggingface.co/spaces/AldiSanjaya121/PengenalWajahMahasiswa)
 ### Video Presentasi: [Youtube](https://youtu.be/-RVCa59FNnM?si=QdQp6YWmByHC7S6B)
 ### Poster: [Gdrive](https://drive.google.com/file/d/1_02TFxsLvbL0b0U2wM1MP8ZhRawZgBBO/view?usp=drive_link)
+### Notebook: [Kaggle](https://www.kaggle.com/code/lathief137/tugas-besar-deep-learning-ra)
 
 ## Deskripsi Project
 Project ini merupakan implementasi klasifikasi wajah mahasiswa yang mengambil mata kuliah Pembelajaran Mendalam RA menggunakan deep learning dengan dua arsitektur model:
