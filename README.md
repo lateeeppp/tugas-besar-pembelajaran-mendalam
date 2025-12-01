@@ -179,3 +179,21 @@ Lihat file `requirements.txt` untuk daftar lengkap dependencies:
 - Untuk performa terbaik, gunakan GPU saat training/inference
 - Notebook telah dioptimasi untuk environment Kaggle
 
+## Learning Curve
+
+### DenseNet121
+
+[DenseNet121](learning_curve-densenet121.png)
+
+### Swin-Tiny
+[Swin-Tiny](learning_curve-swin.png)
+
+## Metric Performance
+
+### DenseNet121
+
+[DenseNet121](metric-densenet121.png)
+
+### Swin Tiny
+
+[Swin-Tiny](metric-swin.png)
