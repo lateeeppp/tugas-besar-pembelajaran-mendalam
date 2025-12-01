@@ -7,6 +7,10 @@
 2. **Shintya Ayu Wardani** - 122140138
 3. **Aldi Sanjaya** - 122140150
 
+### Aplikasi: [Hugging Face - Streamlit](https://huggingface.co/spaces/AldiSanjaya121/PengenalWajahMahasiswa)
+### Video Presentasi: [Youtube](https://youtu.be/-RVCa59FNnM?si=QdQp6YWmByHC7S6B)
+### Poster: [Gdrive](https://drive.google.com/file/d/1_02TFxsLvbL0b0U2wM1MP8ZhRawZgBBO/view?usp=drive_link)
+
 ## Deskripsi Project
 Project ini merupakan implementasi klasifikasi wajah mahasiswa yang mengambil mata kuliah Pembelajaran Mendalam RA menggunakan deep learning dengan dua arsitektur model:
 - **DenseNet121** (`densenet121_facecls.pth`)
@@ -169,5 +173,3 @@ Lihat file `requirements.txt` untuk daftar lengkap dependencies:
 - Untuk performa terbaik, gunakan GPU saat training/inference
 - Notebook telah dioptimasi untuk environment Kaggle
 
-## License
-[Sesuaikan dengan lisensi yang digunakan]
