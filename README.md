@@ -2,10 +2,20 @@
 
 ## Kelompok: NVTeam (Neural Vision Team)
 
-### Anggota Kelompok
+### Anggota Kelompok - Pembelajaran Mendalam RA
 1. **Ikhsannudin Lathief** - 122140137
 2. **Shintya Ayu Wardani** - 122140138
 3. **Aldi Sanjaya** - 122140150
+
+## Model Terbaik:
+**DenseNet121** (`densenet121_facecls.pth`)
+
+## Tautan
+
+### Aplikasi: [Hugging Face - Streamlit](https://huggingface.co/spaces/AldiSanjaya121/PengenalWajahMahasiswa)
+### Video Presentasi: [Youtube](https://youtu.be/-RVCa59FNnM?si=QdQp6YWmByHC7S6B)
+### Poster: [Gdrive](https://drive.google.com/file/d/1_02TFxsLvbL0b0U2wM1MP8ZhRawZgBBO/view?usp=drive_link)
+### Notebook: [Kaggle](https://www.kaggle.com/code/lathief137/tugas-besar-deep-learning-ra)
 
 ## Deskripsi Project
 Project ini merupakan implementasi klasifikasi wajah mahasiswa yang mengambil mata kuliah Pembelajaran Mendalam RA menggunakan deep learning dengan dua arsitektur model:
@@ -169,5 +179,21 @@ Lihat file `requirements.txt` untuk daftar lengkap dependencies:
 - Untuk performa terbaik, gunakan GPU saat training/inference
 - Notebook telah dioptimasi untuk environment Kaggle
 
-## License
-[Sesuaikan dengan lisensi yang digunakan]
+## Learning Curve
+
+### DenseNet121
+
+![DenseNet121](learning_curve-densenet121.png)
+
+### Swin-Tiny
+![Swin-Tiny](learning_curve-swin.png)
+
+## Metric Performance
+
+### DenseNet121
+
+![DenseNet121](metric-densenet121.png)
+
+### Swin Tiny
+
+![Swin-Tiny](metric-swin.png)
